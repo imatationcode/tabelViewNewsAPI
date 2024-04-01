@@ -1,0 +1,63 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "ac6d3858c7300d743be6d573bc6c43dcd5aa496a5a517faa70583f1d73cbcfde"
+    }
+  ],
+  "containerPath" : "/Users/shivakumar/Desktop/APIpractice/APIpractice.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Products",
+      "derivedDataPath" : "/Users/shivakumar/Desktop/APIpractice/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "A91A828A-7356-401C-9BD5-0343A494AB59",
+          "TARGET_DEVICE_MODEL" : "iPhone15,2",
+          "TARGET_DEVICE_OS_VERSION" : "16.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

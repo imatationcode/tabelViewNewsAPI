@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "328570c77e19800d123f5bc8fcde2d369e36f1e4c459713fb50ece5ee2f885da"
+build_start_time: [1711972233, 541160106]
+build_end_time: [1711972236, 948882102]
+inputs:
+  "/Users/shivakumar/Desktop/APIpractice/APIpractice/AppDelegate.swift": [1711625310, 58898925]
+  "/Users/shivakumar/Desktop/APIpractice/APIpractice/DetailedNewsViewController.swift": [1711971861, 74615955]
+  "/Users/shivakumar/Desktop/APIpractice/APIpractice/SceneDelegate.swift": [1711625310, 64014911]
+  "/Users/shivakumar/Desktop/APIpractice/APIpractice/ViewController.swift": [1711971614, 88834285]
+  "/Users/shivakumar/Desktop/APIpractice/APIpractice/models/ListTTableViewCell.swift": [1711962645, 832911014]
+  "/Users/shivakumar/Desktop/APIpractice/APIpractice/models/NewsDataStruct.swift": [1711956390, 299920320]
+  "/Users/shivakumar/Desktop/APIpractice/APIpractice/models/articalDataStruct.swift": [1711950239, 309014797]
+  "/Users/shivakumar/Desktop/APIpractice/customeView/Articles.swift": [1711781539, 893177032]
+  "/Users/shivakumar/Desktop/APIpractice/customeView/NewsArticleCell.swift": [1711716791, 677036285]
+  "/Users/shivakumar/Desktop/APIpractice/customeView/NewsListData.swift": [1711956764, 526998281]
+  "/Users/shivakumar/Desktop/APIpractice/customeView/Source.swift": [1711781539, 843827247]

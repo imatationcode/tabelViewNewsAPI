@@ -1,0 +1,9 @@
+Target dependency graph (4 targets)
+Alamofire-Alamofire in Pods, no dependencies
+Alamofire in Pods, depends on:
+Alamofire-Alamofire in Pods (explicit)
+Pods-APIpractice in Pods, depends on:
+Alamofire in Pods (explicit)
+APIpractice in APIpractice, depends on:
+Pods-APIpractice in Pods (implicit dependency via file 'Pods_APIpractice.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')

@@ -1,0 +1,55 @@
+"/Users/shivakumar/Desktop/APIpractice/Pods/Alamofire/Source/Core/ParameterEncoder.swift":
+  object: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoder.o"
+  swift-dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoder.swiftdeps"
+  dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoder.d"
+  diagnostics: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoder.dia"
+"/Users/shivakumar/Desktop/APIpractice/Pods/Alamofire/Source/Features/MultipartUpload.swift":
+  swift-dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartUpload.swiftdeps"
+  object: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartUpload.o"
+  dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartUpload.d"
+  diagnostics: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartUpload.dia"
+"/Users/shivakumar/Desktop/APIpractice/Pods/Alamofire/Source/Core/Notifications.swift":
+  object: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Notifications.o"
+  swift-dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Notifications.swiftdeps"
+  diagnostics: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Notifications.dia"
+  dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Notifications.d"
+"/Users/shivakumar/Desktop/APIpractice/Pods/Alamofire/Source/Core/HTTPMethod.swift":
+  dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/HTTPMethod.d"
+  swift-dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/HTTPMethod.swiftdeps"
+  diagnostics: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/HTTPMethod.dia"
+  object: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/HTTPMethod.o"
+"/Users/shivakumar/Desktop/APIpractice/Pods/Alamofire/Source/Extensions/OperationQueue+Alamofire.swift":
+  object: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/OperationQueue+Alamofire.o"
+  dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/OperationQueue+Alamofire.d"
+  swift-dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/OperationQueue+Alamofire.swiftdeps"
+  diagnostics: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/OperationQueue+Alamofire.dia"
+"/Users/shivakumar/Desktop/APIpractice/Pods/Alamofire/Source/Core/ParameterEncoding.swift":
+  swift-dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoding.swiftdeps"
+  diagnostics: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoding.dia"
+  object: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoding.o"
+  dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/ParameterEncoding.d"
+"/Users/shivakumar/Desktop/APIpractice/Pods/Alamofire/Source/Core/Protected.swift":
+  swift-dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Protected.swiftdeps"
+  object: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Protected.o"
+  dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Protected.d"
+  diagnostics: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/Protected.dia"
+"/Users/shivakumar/Desktop/APIpractice/Pods/Alamofire/Source/Features/NetworkReachabilityManager.swift":
+  object: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/NetworkReachabilityManager.o"
+  diagnostics: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/NetworkReachabilityManager.dia"
+  swift-dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/NetworkReachabilityManager.swiftdeps"
+  dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/NetworkReachabilityManager.d"
+"/Users/shivakumar/Desktop/APIpractice/Pods/Alamofire/Source/Features/MultipartFormData.swift":
+  dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartFormData.d"
+  object: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartFormData.o"
+  swift-dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartFormData.swiftdeps"
+  diagnostics: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/MultipartFormData.dia"
+"/Users/shivakumar/Desktop/APIpractice/Pods/Alamofire/Source/Features/EventMonitor.swift":
+  dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/EventMonitor.d"
+  swift-dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/EventMonitor.swiftdeps"
+  diagnostics: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/EventMonitor.dia"
+  object: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/EventMonitor.o"
+"/Users/shivakumar/Desktop/APIpractice/Pods/Alamofire/Source/Core/HTTPHeaders.swift":
+  swift-dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/HTTPHeaders.swiftdeps"
+  object: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/HTTPHeaders.o"
+  diagnostics: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/HTTPHeaders.dia"
+  dependencies: "/Users/shivakumar/Desktop/APIpractice/DerivedData/APIpractice/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/x86_64/HTTPHeaders.d"
